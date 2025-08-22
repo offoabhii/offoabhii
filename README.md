@@ -1,4 +1,4 @@
-![Banner](./profile-banner.png)
+![Banner](./1719349518853.jfif)
 # Hi, I'm Abhishek Sharma 👋  
 
 **Machine Learning Engineer | Data-Driven Problem Solver | AI for Business Impact**
