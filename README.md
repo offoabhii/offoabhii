@@ -1,3 +1,4 @@
+![Banner](./profile-banner.png)
 # Hi, I'm Abhishek Sharma 👋  
 
 **Machine Learning Engineer | Data-Driven Problem Solver | AI for Business Impact**
