@@ -43,15 +43,15 @@ I specialize in developing **robust ML models** and **transforming data into act
 ---
 
 ### 📈 **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=offoabihi&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=offoabihi&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=offoabhii&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=offoabhii&layout=compact&hide_border=true)
 
 ---
 
 ### 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsabhi059/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/offoabihi)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhisharma5sept@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/offoabhii)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhisharma5sept2004@gmail.com)
 
 ---
 
