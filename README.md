@@ -36,7 +36,7 @@ I am a final-year **Computer Science Engineering** student (2022–26) focused o
 - **Impact:** Implemented advanced feature engineering to handle imbalanced datasets, significantly reducing false positives and enhancing financial security protocols.
 
 ### **3. Autonomous Navigation: Real-Time Lane Detection**  
-*PyTorch, U-Net, OpenCV*
+*PyTorch, U-Net, OpenCV* | [Repo Link](https://github.com/offoabhii/Lane_detection_using_U-Net)
 - Developed a semantic segmentation model achieving **94% mIoU** for lane tracking in low visibility.
 - **Impact:** Optimized inference to **30 FPS**, enabling safe ADAS integration on edge devices without expensive LiDAR hardware.
 
@@ -47,12 +47,6 @@ I am a final-year **Computer Science Engineering** student (2022–26) focused o
 - 🏛️ **McKinsey & Company:** Forward Program (Leadership & Digital Business Agility)
 - ☁️ **Oracle:** Certified Data Science Professional 2025
 - 💼 **Job Simulations:** Goldman Sachs (Excel), PwC (Power BI), BCG (Data Science)
-
----
-
-## **📊 GitHub Stats**
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=offoabhii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offoabhii&layout=compact&theme=radical)
 
 ---
 
