@@ -1,91 +1,64 @@
-![Banner](./1719349518853.jfif)
 # Hi, I'm Abhishek Sharma 👋  
+**Machine Learning Engineer | RAG Specialist | Computer Vision & NLP Enthusiast**
 
-**Machine Learning Engineer | Data-Driven Problem Solver | AI for Business Impact**
-
-I am currently pursuing my **B.Tech in Computer Science Engineering (2022–26)**, with a strong focus on **Machine Learning, Artificial Intelligence, and Data-Driven Decision-Making**.  
-
-My passion lies in **developing intelligent systems that solve real-world problems** and **creating measurable business outcomes**. With experience in **Computer Vision, NLP, and Explainable AI**, I aim to build solutions that are **technically robust** and **strategically relevant**.
+I am a final-year **Computer Science Engineering** student (2022–26) focused on building production-grade AI systems that bridge the gap between technical complexity and business ROI. Currently, I am architecting RAG pipelines and geospatial ML solutions at **RMSI Pvt. Ltd.**
 
 ---
 
-## **About Me**
-- **Machine Learning Enthusiast**: Skilled in building, training, and deploying models using CNNs, YOLO, NLP techniques, and U-Net architectures.
-- **Data Strategy Mindset**: I believe in aligning AI solutions with **key business metrics** to ensure impact beyond accuracy scores.
-- **Industry Exposure**: Currently interning at **RMSI Pvt. Ltd.**, working on ML applications using OpenCV, CNN, YOLO, and NLP.
-- **Certified Expertise**: Advanced coursework in **Machine Learning, Deep Learning, and GenAI** from **Stanford University** and industry job simulations from **leading global organizations**.
+## **🚀 Professional Summary**
+- **🔍 Machine Learning Intern @ RMSI:** Specialized in architecting production-grade **RAG pipelines** and automating unstructured data parsing using **LLMs**, achieving a **40% reduction** in manual processing latency.
+- **🛠️ Tech Stack:** Proficient in **PyTorch, TensorFlow, LangChain, and OpenCV**. Deep experience in **Computer Vision (U-Net, CNN)** and **Natural Language Processing**.
+- **📈 Business Minded:** Certified by **McKinsey & Company** and **Goldman Sachs** in digital agility and business intelligence.
 
 ---
 
-## **Key Skills**
-- **Programming & ML**: Python, C++, TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn  
-- **Data Handling & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
-- **AI Specialties**: Computer Vision, NLP, Model Explainability, Adversarial Robustness  
-- **Tools**: Git, Jupyter, Google Colab, Visual Studio Code  
+## **🛠️ Technical Proficiency**
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python (Pandas, Scikit-learn), C++, SQL, LaTeX |
+| **AI / ML** | Deep Learning (CNN, U-Net), NLP (LangChain, LLMs, RAG), Computer Vision |
+| **Data & BI** | Power BI (PwC Certified), Advanced Excel (Goldman Sachs Certified) |
+| **Cloud & Tools** | Oracle Cloud Infrastructure (OCI), Git, Docker, Jupyter |
 
 ---
 
-## **Highlighted Projects**
+## **📂 Highlighted Projects**
 
-### **1. RobustEX – Enhancing Reliability of Explainable AI**  
-- **Problem:** How can we ensure that explainability methods remain reliable under adversarial attacks?  
-- **Solution:** Designed a framework that identifies vulnerabilities in popular explainability methods and implemented techniques to improve robustness.  
-- **Impact:** Strengthened trust in AI models for critical decision-making environments; reduced misleading explanations by **>30%** compared to baseline.  
-- **Tech:** Python, CNN, Adversarial ML, Explainable AI  
+### **1. AI Medical Report Analyzer**  
+*Python, NLP, OCR, LLMs* | [Repo Link](https://github.com/offoabhii/AI-Medical-Report-Analyzer)
+- Developed an automated system to parse and summarize complex medical diagnostic reports using **NLP** and **OCR**.
+- **Impact:** Streamlines clinical workflows by extracting key health markers and providing concise medical summaries, reducing the time required for manual report review.
 
----
+### **2. AI Fraud Detection Engine**  
+*Scikit-learn, XGBoost, Anomaly Detection* | [Repo Link](https://github.com/offoabhii/AI-Fraud-Detection)
+- Engineered a high-precision machine learning model to identify fraudulent financial transactions in real-time.
+- **Impact:** Implemented advanced feature engineering to handle imbalanced datasets, significantly reducing false positives and enhancing financial security protocols.
 
-### **2. Autonomous Vehicle Lane Detection (U-Net Architecture)**  
-- **Problem:** Autonomous vehicles require accurate lane detection for navigation in diverse real-world conditions.  
-- **Solution:** Developed a deep learning-based lane detection model using **U-Net** and **OpenCV preprocessing**, trained on thousands of annotated road images.  
-- **Impact:** Achieved **~90% IoU** in real-time lane detection, reducing detection errors significantly, enabling safer and more reliable autonomous navigation.  
-- **Tech:** Python, Keras, OpenCV, CNN  
-
----
-
-### **3. Resume Information Extractor (NLP-Based)**  
-- **Problem:** Manual resume screening is time-intensive and prone to human error in recruitment processes.  
-- **Solution:** Built a resume parser leveraging NLP for automatic information extraction (skills, experience, contact details).  
-- **Impact:** Reduced screening time by **80%**, enabling HR teams to focus on strategic decision-making.  
-- **Tech:** Python, NLP, Regex, Tkinter  
+### **3. Autonomous Navigation: Real-Time Lane Detection**  
+*PyTorch, U-Net, OpenCV*
+- Developed a semantic segmentation model achieving **94% mIoU** for lane tracking in low visibility.
+- **Impact:** Optimized inference to **30 FPS**, enabling safe ADAS integration on edge devices without expensive LiDAR hardware.
 
 ---
 
-### **4. Weather Trend Forecasting**  
-- **Problem:** Understanding climate patterns is crucial for long-term planning in multiple sectors.  
-- **Solution:** Implemented a time-series forecasting model to predict weather patterns using historical data.  
-- **Impact:** Provided actionable insights for agricultural planning, disaster management, and resource allocation.  
-- **Tech:** Python, Scikit-learn, Pandas, Matplotlib  
+## **📜 Certifications**
+- 🎓 **Stanford University:** Supervised Machine Learning & Advanced Learning Algorithms
+- 🏛️ **McKinsey & Company:** Forward Program (Leadership & Digital Business Agility)
+- ☁️ **Oracle:** Certified Data Science Professional 2025
+- 💼 **Job Simulations:** Goldman Sachs (Excel), PwC (Power BI), BCG (Data Science)
 
 ---
 
-## **Certifications**
-- **Advanced Learning Algorithms – Stanford University (2025)**  
-- **Machine Learning Specialization – Stanford University (2024)**  
-- **Data Science Job Simulation – Commonwealth Bank (2024)**  
-- **GenAI Job Simulation – BCG X (2024)**  
+## **📊 GitHub Stats**
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=offoabhii&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offoabhii&layout=compact&theme=radical)
 
 ---
 
-## **My Approach to Problem Solving**
-> **1. Define the Right Problem:** Understanding the business/operational need before jumping into data.  
-> **2. Design Data-Driven Solutions:** Building ML models tailored to deliver measurable outcomes.  
-> **3. Ensure Robustness:** Focusing on reliability, interpretability, and scalability.  
-> **4. Deliver Value:** Aligning results with KPIs to ensure real-world relevance.  
+## **📫 Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsabhi059)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/offoabhii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisharma5sept2004@gmail.com)
 
----
-
-## **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=offoabhii&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=offoabhii&layout=compact&hide_border=true)
-
----
-
-## **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsabhi059/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/offoabhii)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhisharma5sept2004@gmail.com)  
-
----
-
-*"Creating AI solutions that are as valuable to businesses as they are innovative in technology."*
+*"Architecting intelligent systems that drive measurable business impact."*
